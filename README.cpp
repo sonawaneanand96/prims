@@ -1,0 +1,2 @@
+# prims
+simple prims algoithm
